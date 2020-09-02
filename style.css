@@ -1,0 +1,72 @@
+h1{
+    font-family: cursive;
+    font-size: 150%;
+    font-weight: bolder;
+    color: rgb(239, 255, 167);
+}
+
+.boxmodel{
+    border:10px solid teal;
+    font-display: 20px;
+    font-weight: 300;
+    color: navy;
+    background-color: rgb(152, 185, 214);
+    padding: 5px 650px; 
+    margin: 10px 10px;  
+    text-align: center;
+    width: 10px;
+    height: 20px;
+    display: block
+
+}
+
+*{
+    text-align: center;
+    text-size-adjust: 100px;
+    font-size: 20px
+}
+span{
+    font-size: 2rem;
+}
+p{
+    text-align: left !important;
+}
+img{
+    float: right ;
+}
+
+ul{
+    color: brown;
+    background-color: aqua;
+    text-align: unset
+}
+header{
+    color: aquamarine;
+    background-blend-mode: color;
+    background-color: cornflowerblue; 
+    border: 5px dashed paleturquoise
+
+}
+section{
+    color: rgb(65, 17, 104);
+    background-color: darkgray;
+    line-height: 50px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+form{
+    color: navy;
+    background-color: gainsboro
+    
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover
+}
+li{
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
